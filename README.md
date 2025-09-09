@@ -1,6 +1,6 @@
 # Space Invaders
 
-> Course: Software Development Practices (CES2024) - 25-2-23929
+> Course: Software Development Practices (CES2024) - 25-2-23292
 
 This course project focuses on creating a prototype based on the video game [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders). The aim is to apply and validate best practices in software engineering. The original code repository can be found at [RobertoIA/Invaders](https://github.com/RobertoIA/Invaders).
 
@@ -14,7 +14,7 @@ Please list your team name and members in the table below. In addition, submit y
 
 | No. | Name                                | Members                                                                                                                                                                              | Requirements      |
 |-----|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| 0   | [Instructors](https://github.com/PurpleBananass/PurpleBananass) | [Scott Uk-Jin Lee](https://github.com/scottukjinlee/scottukjinlee), [Hansae Ju](https://github.com/Verssae/Verssae), [Joonwoo Lee](https://github.com/PurpleBananass/PurpleBananass) | [Instruct students](requirements/instruct.md) |
+| 0   | [Instructors](https://github.com/PurpleBananass/PurpleBananass) | [Scott Uk-Jin Lee](https://github.com/scottukjinlee/scottukjinlee), [Seungho Kim](https://github.com/oh-gnues/oh-gnues), [Joonwoo Lee](https://github.com/PurpleBananass/PurpleBananass) | [Instruct students](teams/instruct.md) |
 |     |                                     |                                                                                                                                                                                      |                   |
 
 
