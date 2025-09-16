@@ -4,15 +4,15 @@ Hello, we are team 'C# Only'. Our team consists of the following members:
 
 Member
 
-| Name                                             | Email                   | Github Address              |
-|--------------------------------------------------|-------------------------|-----------------------------|
-| [Kisan Nam](https://github.com/soumt-r) (Leader) | soumt@hanyang.ac.kr     |                             |
-| [E.Khongor]()                                    | Hongorhongor3@gmail.com |                             |
-| [LEE SANGHYEON]()                                | hyeoni000401@gmail.com  |                             |
-| [Lee Seong min]()                                | aydd4488@gmail.com      |lookback03/lookback03        |
-| [CHO GUNHA]()                                    | jojo88092@gmail.com |                                 |
-| [Lee SeokMin]()                                  | seokmin04@hanyang.ac.kr |                             |
-| [Amartsogt Tsogtbaatar]()                        | amartsogttsogtbaatar@gmail.com |                      |
+| Name                                             | Email                   | Github Address                               |
+|--------------------------------------------------|-------------------------|----------------------------------------------|
+| [Kisan Nam](https://github.com/soumt-r) (Leader) | soumt@hanyang.ac.kr     |                                              |
+| [E.Khongor]()                                    | Hongorhongor3@gmail.com |                                              |
+| [LEE SANGHYEON]()                                | hyeoni000401@gmail.com  |                                              |
+| [Lee Seong min]()                                | aydd4488@gmail.com      |  https://github.com/lookback03/lookback03     |
+| [CHO GUNHA]()                                    | jojo88092@gmail.com |                                                  |
+| [Lee SeokMin]()                                  | seokmin04@hanyang.ac.kr |                                              |
+| [Amartsogt Tsogtbaatar]()                        | amartsogttsogtbaatar@gmail.com |                                       |
 
 ## Team Requirements
 - 우리 팀은 level design에 집중하여 게임의 난이도와 재미를 향상시키는 것을 목표로 합니다.
